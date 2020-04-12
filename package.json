@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/Karolina31415/frontend_levelup_2020#readme",
   "dependencies": {
-    "package": "^1.0.1"
+    "package": "^1.0.1",
+    "webpack": "^4.42.1",
+    "webpack-cli": "^3.3.11"
   }
 }
